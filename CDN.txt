@@ -1,0 +1,16 @@
+time.is#US美国CDN
+www.visa.com#US美国CDN
+www.digitalocean.com#US美国CDN
+www.iplocation.net#US美国CDN
+ip.sb#US美国CDN
+www.whoer.net#US美国CDN
+time.cloudflare.com#US美国CDN
+www.visa.com.hk#HK香港CDN
+icook.hk#HK香港CDN
+singapore.com#SG新加坡CDN
+www.visa.com.sg#SG新加坡CDN
+www.visa.co.jp#JP日本CDN
+japan.com#JP日本CDN
+russia.com#RU俄罗斯CDN
+malaysia.com#马来西亚CDN
+2606:4700::#IPV6
